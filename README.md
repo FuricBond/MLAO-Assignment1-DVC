@@ -3,7 +3,7 @@
 > **Course:** Machine Learning and AI Operations (MLAO)  
 > **Semester:** 5  
 > **Student:** Vidal Deo  
-> **Email:** furicbond9422@gmail.com
+> **Email:** vidal.deo24@vit.edu
 
 ---
 
